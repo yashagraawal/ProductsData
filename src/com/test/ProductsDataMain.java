@@ -67,7 +67,7 @@ public class ProductsDataMain {
     private static void insertDataIntoDatabase(List<Product> productList) {
         String url = "jdbc:mysql://localhost:3306/mydb";
         String username = "root";
-        String password = "admin@123";
+        String password = "**********";
 
         String query = "INSERT INTO products (id, title, price, description, category, image, rating_rate, rating_count) VALUES (?, ?, ?, ?, ?, ?, ?, ?)";
         
