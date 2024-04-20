@@ -1,7 +1,7 @@
-Title: Product Data Management Protocol
+Title: Product Data Management
 
 Abstract:
-This protocol outlines the systematic retrieval of product data from an API source and its subsequent insertion into a database.
+This project outlines the systematic retrieval of product data from an API source and its subsequent insertion into a database.
 
 Data Retrieval Procedure:
 The application initiates data retrieval from the designated API endpoint:
